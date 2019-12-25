@@ -1,0 +1,16 @@
+{
+    "pochta_ru": {
+        "login": "not_empty",
+        "password": "not_empty"
+    },
+    "cdek": {
+
+    },
+    "nml": {
+
+    },
+    "aliexpress": {
+        "login": "not_empty",
+        "password": "not_empty"
+    }
+}
